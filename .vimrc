@@ -2,6 +2,7 @@
 map <F5> <C-]>     " sustituye el control corchete por <F5>
 map <S-F5> <C-T>   " sustituye el control T por SHIFT <F5>
 map <F6> :cs find c <C-R>=expand("<cword>")<CR><CR>  " busqueda de cscope
+nnoremap <F3> :below terminal ++rows=10 ++close<CR>
 set showcmd
 set tabstop=4
 set softtabstop=4
@@ -14,8 +15,6 @@ set nowrap "Expand text in one line
 syntax enable
 colo molokai
 
-"Enable prompt window inside vim
-below terminal ++rows=10
 
 "Vim-Plug pluggins
 call plug#begin('~/.vim/plug')
