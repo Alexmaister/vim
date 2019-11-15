@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/servers/watchservice/src/main/java/es/dia/sa/watchservice/properties'
+let g:netrw_dirhist_2='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/utilidad/corrupted/src'
+let g:netrw_dirhist_3='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/libs/fuentes/src'
+let g:netrw_dirhist_4='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/utilidad/testcajo2'
+let g:netrw_dirhist_5='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/utilidad/migra_vela/migra_remo'
+let g:netrw_dirhist_6='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/utilidad/migra_vela/migra_local'
+let g:netrw_dirhist_7='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/app/moduinve/src'
+let g:netrw_dirhist_8='/home/aoz001es/Work/7.2/home/TPVS_SA44_MFARG/libs/bancos/bancos_argentina'
+let g:netrw_dirhist_9='/home/aoz001es/Documentos/Codigos/Git/.Projects/geany/ctags'
